@@ -2,6 +2,9 @@
 
 ### This app connects to the Google Map & Vancouver Food Vendors APIs
 
+**Purpose:**
+  * Displays current location of food vendors in Vancouver along with list and map views
+
 **Instructions:**
   * Download or clone this repo
   * CD to the ClientApp folder in terminal
