@@ -11,3 +11,6 @@
   * Run the command "_npm install_"
   * Once launched, add your Google Map API Key in FetchData.js
   * Build solution and you're good to go!
+
+![picture](images/1.png)
+![picture](images/2.png)
